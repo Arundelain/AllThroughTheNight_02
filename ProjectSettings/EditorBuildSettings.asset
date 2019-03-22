@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/AllThroughTheNight.unity
+    guid: 07a9c2f0a908cfe4f9aeecbc98aa63fb
+  - enabled: 1
+    path: Assets/Scenes/SoundAllThroughTheNight.unity
+    guid: af158585eb629db4398665c2787eb490
